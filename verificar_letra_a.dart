@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  stdout.write('Informe uma string: ');
+  stdout.write('Digite algo para verificar se contém a letra "a": ');
   String input = stdin.readLineSync()!;
 
   int count = input.toLowerCase().split('a').length - 1;
