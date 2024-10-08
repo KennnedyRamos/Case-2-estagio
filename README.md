@@ -33,13 +33,11 @@ Siga as instruções abaixo para executar o código:
    cd case1
 ## Executando o Programa
 
-Insira um número quando solicitado. O programa calculará a sequência de Fibonacci e informará se o número informado pertence à sequência.
+## Exemplo de Uso
 
-### Exemplo de Uso
-```plaintext
-Informe um número: 21
-O número 21 pertence à sequência de Fibonacci.
-```
+Se o usuário inserir a string `"Amanhã será um ótimo dia!"`, o programa exibirá:
+
+`A letra 'a' foi encontrada 4 vez(es).`
 
 ## Contribuições
 Sinta-se à vontade para fazer um fork do repositório e enviar pull requests com melhorias ou correções.
