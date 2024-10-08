@@ -22,7 +22,7 @@ Siga as instruções abaixo para executar o código:
 
    ```bash
    git clone https://github.com/KennnedyRamos/Case-2-estagio.git
-   cd Case-1-estagio
+   cd case-2-estagio
    
   ## Passos para Executar o Código
 
@@ -30,7 +30,7 @@ Siga as instruções abaixo para executar o código:
 
 2. **Navegue até o diretório do projeto:**
    ```bash
-   cd case1
+   cd case2
 ## Executando o Programa
 
 ## Exemplo de Uso
