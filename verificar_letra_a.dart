@@ -4,7 +4,6 @@ void main() {
   stdout.write('Informe uma string: ');
   String input = stdin.readLineSync()!;
 
-  // Convertendo a string para minúsculas e contando a ocorrência de 'a'
   int count = input.toLowerCase().split('a').length - 1;
 
   if (count > 0) {
